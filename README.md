@@ -1,4 +1,4 @@
-# Software Developer Folio 
+# PORTFOLIO
 
 ## A clean, beautiful and responsive portfolio template for Developers!
 
