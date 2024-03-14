@@ -1,16 +1,9 @@
 # PORTFOLIO
 ## 목차
-- [Sections](#sections)
-- [Getting Started](#getting-started)
-- [How to Use](#how-to-use)
-- [Linking portfolio to GitHub](#linking-portfolio-to-github)
-- [Linking blogs section to Medium](#linking-blogs-section-to-medium)
-- [Change and Customize](#change-and-customize-every-section-according-to-your-need)
-- [Deployment](#deployment)
-- [Technologies Used](#technologies-used)
-- [Illustrations](#illustrations)
-- [For the Future](#for-the-future)
-- [Contributors](#project-maintainers)
+- [소개](#sections)
+- [프로젝트](#getting-started)
+- [개발 블로그](#how-to-use)
+
 
 ## Portfolio Sections
 ✔️ Summary and About me\
